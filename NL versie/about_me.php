@@ -87,7 +87,7 @@
                <h5 class="card-title text-primary">Vraag #5</h5>
                <h6 class="card-title text-primary">Lorem ipsum dolor sit amet.</h6>
                <hr>
-               <p class="card-text">My Twitch is right at the bottom of the screen, or can be found <a href="https://twitch.tv/mark_ed" target="_blank">Here.</a></p>
+               <p class="card-text">Lorem ipsum dolor sit amet.</a></p>
             </div>
          </div>
       </div>
@@ -97,7 +97,7 @@
                <h5 class="card-title text-primary">Vraag #6</h5>
                <h6 class="card-title text-primary">Lorem ipsum dolor sit amet.</h6>
                <hr>
-               <p class="card-text">Yes, You can contact me about anything really, right <a href="contact.php" target="_blank">Here.</a></p>
+               <p class="card-text">Lorem ipsum dolor sit amet.</p>
             </div>
          </div>
       </div>
